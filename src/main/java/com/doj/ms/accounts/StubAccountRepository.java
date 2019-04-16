@@ -1,5 +1,4 @@
 package com.doj.ms.accounts;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -36,5 +35,4 @@ public class StubAccountRepository implements AccountRepository {
 	public Account getAccount(String number) {
 		return accountsByNumber.get(number);
 	}
-
 }
