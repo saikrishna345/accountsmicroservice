@@ -1,0 +1,5 @@
+/home/vedams/Spring-boot-with-docker/accounts-microservice-server/src/main/java/com/doj/ms/accounts/AccountsMicroserviceServerApplication.java
+/home/vedams/Spring-boot-with-docker/accounts-microservice-server/src/main/java/com/doj/ms/accounts/AccountRepository.java
+/home/vedams/Spring-boot-with-docker/accounts-microservice-server/src/main/java/com/doj/ms/accounts/AccountController.java
+/home/vedams/Spring-boot-with-docker/accounts-microservice-server/src/main/java/com/doj/ms/accounts/Account.java
+/home/vedams/Spring-boot-with-docker/accounts-microservice-server/src/main/java/com/doj/ms/accounts/StubAccountRepository.java
